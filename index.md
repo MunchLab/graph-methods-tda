@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="hero-card">
-  <h1>Welcome to Conference Name 2025</h1>
+  <h1>Welcome to Graph Based Methods in Topological Data Analysis 2026</h1>
   <p>
     This workshop brings together researchers working at the intersection of 
     graph methods and topological data analysis (TDA). We aim to foster 
@@ -20,7 +20,7 @@ title: Home
 <div class="info-grid">
   <div class="info-box">
     <div class="label">Dates</div>
-    <div class="value">TBD, 2025</div>
+    <div class="value">July 27 - July 29, 2026</div>
   </div>
   <div class="info-box">
     <div class="label">Location</div>
