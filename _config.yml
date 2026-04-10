@@ -1,0 +1,22 @@
+title: "Conference Name 2025"
+description: "A workshop on graph methods in topological data analysis"
+url: "https://munchlab.github.io"
+baseurl: "/graph-methods-tda"
+
+# Navigation
+nav_pages:
+  - title: Home
+    url: /
+  - title: Speakers
+    url: /speakers
+  - title: Program
+    url: /program
+  - title: Registration
+    url: /registration
+  - title: Important Dates
+    url: /dates
+  - title: Directions
+    url: /directions
+
+# Organizer contact
+contact_email: "organizer@msu.edu"
