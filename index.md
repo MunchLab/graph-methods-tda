@@ -5,7 +5,7 @@ title: Home
 
 <div class="hero-card">
 
-## Welcome to Graph Methods in TDA 2026
+# Welcome to Graph Methods in TDA 2026
 
 This workshop brings together researchers working at the intersection of graph methods and topological data analysis (TDA). We aim to foster connections between theory and applications, spanning pure mathematics, computer science, and data science.
 
@@ -17,7 +17,7 @@ We welcome participants from all career stages, from graduate students to senior
   <div class="info-box"><div class="lbl">Dates</div><div class="val">July 27–29, 2026</div></div>
   <div class="info-box"><div class="lbl">Location</div><div class="val">Michigan State University</div></div>
   <div class="info-box"><div class="lbl">Format</div><div class="val">In-person</div></div>
-  <div class="info-box"><div class="lbl">Registration</div><div class="val">TBA</div></div>
+  <div class="info-box"><div class="lbl">Registration</div><div class="val">Closes May 7, 2026</div></div>
 </div>
 
 ## About the Workshop
