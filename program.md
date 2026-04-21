@@ -7,7 +7,7 @@ title: Program
 
 The full schedule will be posted closer to the event. All times are Eastern Time.
 
-## Day 1 — July 27, 2026
+<!-- ## Day 1 — July 27, 2026
 
 <table class="prog-table">
   <thead><tr><th>Time</th><th>Event</th><th>Speaker / Details</th></tr></thead>
@@ -58,7 +58,7 @@ The full schedule will be posted closer to the event. All times are Eastern Time
     <tr><td class="t">2:00 PM</td><td>Panel Discussion</td><td>Topic TBA</td></tr>
     <tr><td class="t">3:00 PM</td><td>Closing Remarks</td><td>Organizers</td></tr>
   </tbody>
-</table>
+</table> -->
 
 ## Abstracts
 

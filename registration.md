@@ -7,7 +7,7 @@ title: Registration
 
 <div class="reg-box">
 
-### Register to Attend
+Register to Attend
 
 Registration is free but required for planning purposes. Please register by **DATE TBD**.
 

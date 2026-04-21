@@ -1,0 +1,141 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>Home | Graph Methods in TDA 2026</title><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+:root{--msu:#18453b;--msu2:#1f5447;--gold:#c89e3c;--pale:#eaf3ee;--border:#d0ddd9;--text:#222;--muted:#555;--bg:#f7f9f8;--fd:'Playfair Display',Georgia,serif;--fb:'Source Sans 3','Segoe UI',sans-serif}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--fb);font-size:17px;line-height:1.7;color:var(--text);background:var(--bg)}
+.site-header{background:var(--msu);padding:2.8rem 2rem 2.2rem}
+.site-header .inner,.site-main .inner,.site-nav .inner{max-width:960px;margin:0 auto}
+.site-header h1{font-family:var(--fd);font-size:2.4rem;font-weight:700;line-height:1.2;margin-bottom:0.4rem;color:#fff}
+.site-header .subtitle{font-size:1rem;font-weight:300;opacity:0.85;margin-bottom:0.6rem;color:#fff}
+.site-header .meta{font-size:0.9rem;font-weight:600;color:var(--gold)}
+.site-nav{background:var(--msu2);border-bottom:3px solid var(--gold);position:sticky;top:0;z-index:100}
+.site-nav .inner{display:flex;flex-wrap:wrap}
+.site-nav a{display:inline-block;color:rgba(255,255,255,0.8);text-decoration:none;padding:0.85rem 1.1rem;font-size:0.82rem;font-weight:600;text-transform:uppercase;letter-spacing:0.5px;transition:background 0.15s,color 0.15s}
+.site-nav a:hover{color:#fff;background:rgba(255,255,255,0.08)}
+.site-nav a.active{color:#fff;border-bottom:3px solid var(--gold);margin-bottom:-3px}
+.site-main{padding:2.5rem 1.5rem;min-height:60vh}
+h1,h2,h3{font-family:var(--fd);color:var(--msu);line-height:1.3}
+h1{font-size:1.9rem;margin-bottom:0.8rem}
+h2{font-size:1.4rem;margin:2rem 0 0.6rem;padding-bottom:0.35rem;border-bottom:2px solid var(--pale)}
+h2:first-child{margin-top:0}
+h3{font-size:1.1rem;color:var(--msu2);margin:1.2rem 0 0.3rem}
+p{color:var(--muted);margin-bottom:0.9rem}
+a{color:var(--msu)}
+a:hover{color:var(--msu2)}
+ul,ol{margin:0.4rem 0 1rem 1.5rem;color:var(--muted)}
+li{margin-bottom:0.25rem}
+strong{color:var(--text)}
+.hero-card{background:#fff;border:1px solid var(--border);border-left:5px solid var(--msu);border-radius:6px;padding:1.8rem 2.2rem;margin-bottom:1.8rem}
+.hero-card h1{font-size:1.6rem;margin-bottom:0.5rem}
+.info-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:0.85rem;margin-bottom:2rem}
+.info-box{background:#fff;border:1px solid var(--border);border-top:4px solid var(--msu);border-radius:5px;padding:1.1rem;text-align:center}
+.info-box .lbl{font-size:0.7rem;text-transform:uppercase;letter-spacing:1px;color:#999;margin-bottom:0.25rem}
+.info-box .val{font-family:var(--fd);font-size:1rem;color:var(--msu);font-weight:700}
+.org-pills{display:flex;flex-wrap:wrap;gap:0.6rem;margin:0.75rem 0 1rem}
+.org-pill{background:var(--pale);border:1px solid var(--border);border-radius:100px;padding:0.35rem 0.9rem;font-size:0.88rem;color:var(--msu);font-weight:600}
+.speaker-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin:1rem 0}
+.speaker-card{background:#fff;border:1px solid var(--border);border-radius:8px;padding:1.3rem;transition:box-shadow 0.2s}
+.speaker-card:hover{box-shadow:0 4px 16px rgba(24,69,59,0.11)}
+.speaker-card .name{font-family:var(--fd);font-size:1.05rem;color:var(--msu);margin-bottom:0.15rem}
+.speaker-card .affil{font-size:0.82rem;color:#999;margin-bottom:0.4rem}
+.speaker-card .talk{font-size:0.87rem;color:var(--muted);font-style:italic}
+.prog-table{width:100%;border-collapse:collapse;background:#fff;border-radius:6px;overflow:hidden;margin:0.75rem 0 2rem;box-shadow:0 1px 6px rgba(0,0,0,0.05)}
+.prog-table th{background:var(--msu);color:#fff;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.5px;padding:0.65rem 1rem;text-align:left}
+.prog-table td{padding:0.65rem 1rem;border-bottom:1px solid var(--border);font-size:0.9rem;color:var(--muted);vertical-align:top}
+.prog-table tr:last-child td{border-bottom:none}
+.prog-table tr:hover td{background:var(--pale)}
+.prog-table .t{color:var(--msu);font-weight:700;white-space:nowrap;width:100px}
+.prog-table .brk td{background:#f3f7f5;color:#aaa;font-style:italic}
+.dates-list{list-style:none;padding:0;margin:1rem 0}
+.dates-list li{display:flex;gap:1rem;align-items:baseline;padding:0.75rem 1rem;background:#fff;border-bottom:1px solid var(--border);font-size:0.92rem}
+.dates-list li:first-child{border-radius:6px 6px 0 0}
+.dates-list li:last-child{border-bottom:none;border-radius:0 0 6px 6px}
+.dates-list .dl{font-family:var(--fd);font-weight:700;color:var(--msu);min-width:150px}
+.dates-list .dd{color:var(--muted)}
+.dates-list li.upcoming{border-left:4px solid var(--gold)}
+.reg-box{background:#fff;border:1px solid var(--border);border-radius:8px;padding:1.8rem;margin-bottom:1.2rem}
+.reg-box h3{font-size:1.15rem;color:var(--msu);margin-bottom:0.5rem}
+.btn{display:inline-block;background:var(--msu);color:#fff;padding:0.7rem 1.7rem;border-radius:5px;text-decoration:none;font-weight:600;font-size:0.95rem;margin-top:0.6rem;transition:background 0.2s}
+.btn:hover{background:var(--msu2);color:#fff}
+.venue-box{background:#fff;border:1px solid var(--border);border-left:5px solid var(--msu);border-radius:5px;padding:1.2rem 1.5rem;margin-bottom:1.5rem}
+.venue-box p{margin:0;color:var(--text)}
+table.hotel-table{width:100%;border-collapse:collapse;margin:0.75rem 0;font-size:0.9rem}
+table.hotel-table th{background:var(--pale);color:var(--msu);font-weight:700;padding:0.5rem 0.9rem;text-align:left;border-bottom:2px solid var(--border)}
+table.hotel-table td{padding:0.5rem 0.9rem;border-bottom:1px solid var(--border);color:var(--muted)}
+table.hotel-table tr:last-child td{border-bottom:none}
+.site-footer{background:var(--msu);color:rgba(255,255,255,0.65);text-align:center;padding:1.4rem;font-size:0.85rem;margin-top:3rem}
+.site-footer a{color:var(--gold);text-decoration:none}
+@media(max-width:700px){.site-header h1{font-size:1.6rem}.info-grid{grid-template-columns:1fr 1fr}.speaker-grid{grid-template-columns:1fr 1fr}.site-nav a{padding:0.65rem 0.65rem;font-size:0.72rem}}
+@media(max-width:480px){.speaker-grid{grid-template-columns:1fr}}
+</style></head><body>
+<header class="site-header"><div class="inner"><h1>Graph Based Methods in Topological Data Analysis</h1><p class="subtitle">A workshop on graph methods and topological data analysis</p><p class="meta">📅 July 27–29, 2026 &nbsp;&nbsp; 📍 Michigan State University, East Lansing</p></div></header>
+<nav class="site-nav"><div class="inner">
+<a href="/graph-methods-tda/" class="active">Home</a>
+<a href="/graph-methods-tda/speakers" >Speakers</a>
+<a href="/graph-methods-tda/program" >Program</a>
+<a href="/graph-methods-tda/dates" >Important Dates</a>
+<a href="/graph-methods-tda/registration" >Registration</a>
+<a href="/graph-methods-tda/directions" >Directions</a>
+</div></nav>
+<main class="site-main"><div class="inner"><div class="hero-card">
+
+Welcome to Graph Methods in TDA 2026! 
+ <br />
+ <br />
+This workshop brings together researchers working on graph signatures,
+Reeb graphs, and the Mapper algorithm, from theoretical foundations
+to real-world applications. We aim to foster connections between
+pure mathematics, computer science, and data science.
+
+<br />
+<br />
+We welcome participants from all career stages, from graduate students to senior researchers.
+
+</div>
+
+<div class="info-grid">
+  <div class="info-box"><div class="lbl">Dates</div><div class="val">July 27–29, 2026</div></div>
+  <div class="info-box"><div class="lbl">Location</div><div class="val">Michigan State University</div></div>
+  <div class="info-box"><div class="lbl">Format</div><div class="val">In-person</div></div>
+  <div class="info-box"><div class="lbl">Registration</div><div class="val">Open now</div></div>
+</div>
+
+<h2 id="about-the-workshop">About the Workshop</h2>
+
+<p>This workshop focuses on graph signatures and their role in topological data analysis,
+with particular emphasis on Reeb graphs and the Mapper algorithm. We bring together
+researchers working on the theoretical foundations of these methods as well as those
+developing practical applications of Mapper in real-world settings.</p>
+
+<p>Topics include:</p>
+
+<ul>
+  <li>Reeb graphs: theory, computation, and metrics</li>
+  <li>The Mapper algorithm and its applications</li>
+  <li>Graph signatures and invariants</li>
+  <li>Persistent homology on graphs and networks</li>
+  <li>Applications of TDA to biological, social, and scientific data</li>
+  <li>Connections between graph-based methods and broader TDA theory</li>
+</ul>
+
+<h2 id="organizers">Organizers</h2>
+
+<div class="org-pills">
+  <a class="org-pill" href="https://elizabethmunch.com/" target="_blank">Elizabeth Munch (MSU)</a>
+  <a class="org-pill" href="https://wolfchambers.github.io/" target="_blank">Erin Wolf Chambers (Notre Dame)</a>
+  <a class="org-pill" href="https://www.math.unm.edu/~sarah/" target="_blank">Sarah Percival (U of New Mexico)</a>
+  <a class="org-pill" href="https://ishikaghosh.com/" target="_blank">Ishika Ghosh (MSU)</a>
+</div>
+
+<p>Questions? Email us at <a href="mailto:muncheli@msu.edu">muncheli@msu.edu</a>.</p>
+
+<h2 id="sponsors">Sponsors</h2>
+
+<div style="text-align:center; margin-top:1rem;">
+  <img src="assets/images/signature_print.jpg" alt="CMSE Logo" height="100" style="margin-right: 20px;" /> 
+  <img src="assets/images/NSF_Official_logo_High_Res_1200ppi.png" alt="NSF Logo" height="100" />
+</div>
+
+</div></main>
+<footer class="site-footer">&copy; Graph Methods in TDA 2026 &nbsp;|&nbsp; Contact: <a href="mailto:muncheli@msu.edu">muncheli@msu.edu</a></footer>
+</body></html>
