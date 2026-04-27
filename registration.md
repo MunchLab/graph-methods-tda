@@ -9,7 +9,7 @@ title: Registration
 
 Register to Attend
 
-Registration is free but required for planning purposes. Please register by **DATE TBD**.
+Registration is free but required for planning purposes. Please register by **May 7th** to be considered for travel support.
 
 <a class="btn" href="https://forms.gle/TJj5iiMwFjJLscmG8" target="_blank" rel="noopener noreferrer">Register Now →</a>
 
@@ -30,14 +30,13 @@ Include a title and short abstract (250 words max).
 
 </div> -->
 
-
 ## Financial Support
 
 Limited travel support is available for graduate students and early-career researchers.
 To apply, complete the financial support section in the registration form above.
-Priority will be given to those presenting a poster.
+<!-- Priority will be given to those presenting a poster. -->
 
-**Application deadline:** May 7, 2026
+**Application review begins:** May 7, 2026
 
 ## Questions
 
