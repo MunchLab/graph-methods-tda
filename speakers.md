@@ -14,6 +14,11 @@ We are pleased to announce the following confirmed speakers. More speakers will 
   <div class="speaker-card"><div class="name">Radmila Sazdanovic</div><div class="affil">North Carolina State University</div><div class="talk">Talk title TBA</div></div>
   <div class="speaker-card"><div class="name">Tom Needham</div><div class="affil">Florida State University</div><div class="talk">Talk title TBA</div></div>
   <div class="speaker-card"><div class="name">Bei Wang</div><div class="affil">University of Utah</div><div class="talk">Talk title TBA</div></div>
+  <div class="speaker-card"><div class="name">Enrique Alvarado</div><div class="affil">Iowa State University</div><div class="talk">Talk title TBA</div></div>
+  <div class="speaker-card"><div class="name">Halley Fritze</div><div class="affil">University of Michigan</div><div class="talk">Talk title TBA</div></div>
+  <div class="speaker-card"><div class="name">Li Zhang</div><div class="affil">Michigan State University</div><div class="talk">Talk title TBA</div></div>
+  <div class="speaker-card"><div class="name">Xinyuan Yan</div><div class="affil">University of Utah</div><div class="talk">Talk title TBA</div></div>
+  <div class="speaker-card"><div class="name">Jared Reiling</div><div class="affil">Michigan State University</div><div class="talk">Talk title TBA</div></div>
   <!-- <div class="speaker-card"><div class="name">Speaker Name</div><div class="affil">University / Institution</div><div class="talk">Talk title TBA</div></div>
   <div class="speaker-card"><div class="name">Speaker Name</div><div class="affil">University / Institution</div><div class="talk">Talk title TBA</div></div> -->
 </div>
