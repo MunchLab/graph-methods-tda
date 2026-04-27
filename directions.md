@@ -30,6 +30,9 @@ East Lansing, MI 48824</p>
 MSU is accessible via I-96 and US-127.
 See [MSU Parking Services](https://police.msu.edu/parking-services/) for visitor parking maps and rates.
 
+## By Train
+The Amtrak Blue Water route runs from Chicago and stops within walking distance of campus.
+
 ## Hotels
 
 <table class="hotel-table">
