@@ -25,6 +25,8 @@ title: Participants
 
 ## Participant List
 
+Titles of posters are listed under speakers names.
+
 <div class="speaker-grid">
 
 <div class="speaker-card"><div class="name"><a href="https://scholar.google.com/citations?user=TgQ2tvsAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Mujtaba Ali</a></div><div class="affil">Florida State University</div><div class="talk"></div></div>
