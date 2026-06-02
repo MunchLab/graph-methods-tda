@@ -7,9 +7,8 @@ title: Registration
 
 <div class="reg-box">
 
-Register to Attend
-
-Registration is free but required for planning purposes. Please register by **July 17th**.
+Register to attend by filling out the form linked below.
+Registration is free but required for planning purposes. Please register by <b>July 17th</b>.
 
 <a class="btn" href="https://forms.gle/TJj5iiMwFjJLscmG8" target="_blank" rel="noopener noreferrer">Register Now →</a>
 
