@@ -9,7 +9,7 @@ title: Registration
 
 Register to Attend
 
-Registration is free but required for planning purposes. Please register by **May 7th** to be considered for travel support.
+Registration is free but required for planning purposes. Please register by **July 17th**.
 
 <a class="btn" href="https://forms.gle/TJj5iiMwFjJLscmG8" target="_blank" rel="noopener noreferrer">Register Now →</a>
 
@@ -32,11 +32,8 @@ Include a title and short abstract (250 words max).
 
 ## Financial Support
 
-Limited travel support is available for graduate students and early-career researchers.
-To apply, complete the financial support section in the registration form above.
+At this point all funding has been allocated. We are grateful to the National Science Foundation for making funding possible for participants. We still welcome registrations, see the information above.
 <!-- Priority will be given to those presenting a poster. -->
-
-**Application review begins:** May 7, 2026
 
 ## Questions
 
