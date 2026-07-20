@@ -7,19 +7,20 @@ title: Participants
 
 ## Invited Speakers
 
-<div class="speaker-grid">
+<div id="participant-list-grid" class="speaker-grid">
   
-  <div class="speaker-card"><div class="name"><a href="https://www.cs.purdue.edu/homes/tamaldey/" target="_blank" rel="noopener noreferrer">Tamal Dey</a></div><div class="affil">Purdue University</div><div class="talk">Talk title TBA</div></div>
-  <div class="speaker-card"><div class="name"><a href="https://radmila.org/" target="_blank" rel="noopener noreferrer">Radmila Sazdanovic</a></div><div class="affil">North Carolina State University</div><div class="talk">Talk title TBA</div></div>
-  <div class="speaker-card"><div class="name"><a href="https://www.sci.utah.edu/~beiwang/" target="_blank" rel="noopener noreferrer">Bei Wang</a></div><div class="affil">University of Utah</div><div class="talk">Talk title TBA</div></div>
-  <div class="speaker-card"><div class="name"><a href="https://www.tomneedham.com/" target="_blank" rel="noopener noreferrer">Tom Needham</a></div><div class="affil">Florida State University</div><div class="talk">Talk title TBA</div></div>
-  <div class="speaker-card"><div class="name"><a href="https://my.cdm.depaul.edu/v2/Public/Academic/Profile/1577" target="_blank" rel="noopener noreferrer">Salman Parsa</a></div><div class="affil">DePaul University</div><div class="talk">Talk title TBA</div></div>
-  <div class="speaker-card"><div class="name"><a href="https://www.math.unm.edu/~sarah/" target="_blank" rel="noopener noreferrer">Sarah Percival</a></div><div class="affil">University of New Mexico</div><div class="talk">Talk title TBA</div></div>
-  <div class="speaker-card"><div class="name"><a href="https://sites.google.com/view/enriquegalvarado" target="_blank" rel="noopener noreferrer">Enrique Alvarado</a></div><div class="affil">Iowa State University</div><div class="talk">Talk title TBA</div></div>
-  <div class="speaker-card"><div class="name"><a href="https://hfr1tz3.github.io/" target="_blank" rel="noopener noreferrer">Halley Fritze</a></div><div class="affil">University of Michigan</div><div class="talk">Talk title TBA</div></div>
-  <div class="speaker-card"><div class="name"><a href="https://broad.msu.edu/profile/zhan2070/" target="_blank" rel="noopener noreferrer">Li Zhang</a></div><div class="affil">Michigan State University</div><div class="talk">Talk title TBA</div></div>
-  <div class="speaker-card"><div class="name"><a href="https://xinyuanryanyan.github.io/" target="_blank" rel="noopener noreferrer">Xinyuan Yan</a></div><div class="affil">University of Utah</div><div class="talk">Talk title TBA</div></div>
-  <div class="speaker-card"><div class="name"><a href="https://jreiling1.github.io/" target="_blank" rel="noopener noreferrer">Jared Reiling</a></div><div class="affil">Michigan State University</div><div class="talk">Talk title TBA</div></div>
+  <div id="tamal-dey" class="speaker-card"><div class="name"><a href="https://www.cs.purdue.edu/homes/tamaldey/" target="_blank" rel="noopener noreferrer">Tamal Dey</a></div><div class="affil">Purdue University</div><div class="talk">Talk title TBA</div></div>
+  <div id="bala-krishnamoorthy" class="speaker-card"><div class="name"><a href="https://bala-krishnamoorthy.github.io/" target="_blank" rel="noopener noreferrer">Bala Krishnamoorthy</a></div><div class="affil">WSU Vancouver</div><div class="talk">Talk title TBA</div></div>
+  <div id="radmila-sazdanovic" class="speaker-card"><div class="name"><a href="https://radmila.org/" target="_blank" rel="noopener noreferrer">Radmila Sazdanovic</a></div><div class="affil">North Carolina State University</div><div class="talk">Talk title TBA</div></div>
+  <div id="bei-wang" class="speaker-card"><div class="name"><a href="https://www.sci.utah.edu/~beiwang/" target="_blank" rel="noopener noreferrer">Bei Wang</a></div><div class="affil">University of Utah</div><div class="talk">Talk title TBA</div></div>
+  <div id="tom-needham" class="speaker-card"><div class="name"><a href="https://www.tomneedham.com/" target="_blank" rel="noopener noreferrer">Tom Needham</a></div><div class="affil">Florida State University</div><div class="talk">Talk title TBA</div></div>
+  <div id="salman-parsa" class="speaker-card"><div class="name"><a href="https://my.cdm.depaul.edu/v2/Public/Academic/Profile/1577" target="_blank" rel="noopener noreferrer">Salman Parsa</a></div><div class="affil">DePaul University</div><div class="talk">Talk title TBA</div></div>
+  <div id="sarah-percival" class="speaker-card"><div class="name"><a href="https://www.math.unm.edu/~sarah/" target="_blank" rel="noopener noreferrer">Sarah Percival</a></div><div class="affil">University of New Mexico</div><div class="talk">Talk title TBA</div></div>
+  <div id="enrique-alvarado" class="speaker-card"><div class="name"><a href="https://sites.google.com/view/enriquegalvarado" target="_blank" rel="noopener noreferrer">Enrique Alvarado</a></div><div class="affil">Iowa State University</div><div class="talk">Talk title TBA</div></div>
+  <div id="halley-fritze" class="speaker-card"><div class="name"><a href="https://hfr1tz3.github.io/" target="_blank" rel="noopener noreferrer">Halley Fritze</a></div><div class="affil">University of Michigan</div><div class="talk">Talk title TBA</div></div>
+  <div id="li-zhang" class="speaker-card"><div class="name"><a href="https://broad.msu.edu/profile/zhan2070/" target="_blank" rel="noopener noreferrer">Li Zhang</a></div><div class="affil">Michigan State University</div><div class="talk">Talk title TBA</div></div>
+  <div id="xinyuan-yan" class="speaker-card"><div class="name"><a href="https://xinyuanryanyan.github.io/" target="_blank" rel="noopener noreferrer">Xinyuan Yan</a></div><div class="affil">University of Utah</div><div class="talk">Talk title TBA</div></div>
+  <div id="jared-reiling" class="speaker-card"><div class="name"><a href="https://jreiling1.github.io/" target="_blank" rel="noopener noreferrer">Jared Reiling</a></div><div class="affil">Michigan State University</div><div class="talk">Talk title TBA</div></div>
   <!-- <div class="speaker-card"><div class="name">Speaker Name</div><div class="affil">University / Institution</div><div class="talk">Talk title TBA</div></div> -->
 </div>
 
@@ -27,7 +28,7 @@ title: Participants
 
 Titles of posters are listed under speakers names.
 
-<div class="speaker-grid">
+<div class="speaker-grid with-abstracts">
 
 <div class="speaker-card"><div class="name"><a href="https://scholar.google.com/citations?user=TgQ2tvsAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Mujtaba Ali</a></div><div class="affil">Florida State University</div><div class="talk"></div></div>
 <div class="speaker-card"><div class="name"><a href="https://scholar.google.com/citations?user=woCuMd8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Cagatay Ayhan</a></div><div class="affil">Florida State University</div><div class="talk">A Persistent Homology Pipeline for the Analysis of Neural Spike Train Data</div></div>
@@ -68,3 +69,43 @@ Titles of posters are listed under speakers names.
 <div class="speaker-card"><div class="name"><a href="https://www.math.unm.edu/~sarah/" target="_blank" rel="noopener noreferrer">Sarah Percival</a></div><div class="affil">University of New Mexico</div><div class="talk"></div></div>
 <div class="speaker-card"><div class="name"><a href="https://ishikaghosh.com/" target="_blank" rel="noopener noreferrer">Ishika Ghosh</a></div><div class="affil">Michigan State University</div><div class="talk"></div></div>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".with-abstracts .speaker-card").forEach(function (card) {
+    var talkEl = card.querySelector(".talk");
+    if (!talkEl) {
+      return;
+    }
+
+    var talkTitle = talkEl.textContent.trim();
+    if (!talkTitle) {
+      talkEl.textContent = "Talk title TBA";
+    }
+
+    if (card.querySelector("details.abstract")) {
+      return;
+    }
+
+    var details = document.createElement("details");
+    details.className = "abstract";
+
+    var summary = document.createElement("summary");
+    summary.textContent = "Abstract";
+
+    var abstractBody = document.createElement("p");
+    var abstractText = card.getAttribute("data-abstract");
+    abstractBody.textContent = abstractText && abstractText.trim() ? abstractText.trim() : "Abstract TBA";
+
+    details.appendChild(summary);
+    details.appendChild(abstractBody);
+    talkEl.insertAdjacentElement("afterend", details);
+  });
+
+  document.querySelectorAll("#participant-list-grid .speaker-card .talk").forEach(function (talkEl) {
+    if (!talkEl.textContent.trim()) {
+      talkEl.textContent = "Poster title TBA";
+    }
+  });
+});
+</script>
