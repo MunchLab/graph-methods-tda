@@ -5,7 +5,7 @@ title: Home
 
 <div class="hero-card">
 
-Welcome to Graph Methods in TDA 2026! 
+Welcome to Graph Methods in TDA 2026!
  <br>
  <br>
 This workshop brings together researchers working on graph signatures,
@@ -21,9 +21,9 @@ We welcome participants from all career stages, from graduate students to senior
 
 <div class="info-grid">
   <div class="info-box"><div class="lbl">Dates</div><div class="val">July 27–29, 2026</div></div>
-  <div class="info-box"><div class="lbl">Location</div><div class="val">Michigan State University</div></div>
+  <div class="info-box"><div class="lbl">Location</div><div class="val">Michigan State University. STEM Building, Room 2130.</div></div>
   <div class="info-box"><div class="lbl">Format</div><div class="val">In-person</div></div>
-  <div class="info-box"><div class="lbl">Registration</div><div class="val">Open now</div></div>
+  <div class="info-box"><div class="lbl">Registration</div><div class="val">Closed</div></div>
 </div>
 
 ## About the Workshop
@@ -56,7 +56,6 @@ Questions? Email us at [muncheli@msu.edu](mailto:muncheli@msu.edu).
 ## Sponsors
 
 <div style="text-align:center; margin-top:1rem;">
-  <img src="assets/images/signature_print.jpg" alt="CMSE Logo" height="100" style="margin-right: 20px;"> 
+  <img src="assets/images/signature_print.jpg" alt="CMSE Logo" height="100" style="margin-right: 20px;">
   <img src="assets/images/NSF_Official_logo_High_Res_1200ppi.png" alt="NSF Logo" height="100">
 </div>
-

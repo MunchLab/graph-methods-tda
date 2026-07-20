@@ -9,7 +9,15 @@ title: Participants
 
 <div id="participant-list-grid" class="speaker-grid">
   
-  <div id="tamal-dey" class="speaker-card"><div class="name"><a href="https://www.cs.purdue.edu/homes/tamaldey/" target="_blank" rel="noopener noreferrer">Tamal Dey</a></div><div class="affil">Purdue University</div><div class="talk">Talk title TBA</div></div>
+  <div id="tamal-dey" class="speaker-card">
+    <div class="name"><a href="https://www.cs.purdue.edu/homes/tamaldey/" target="_blank" rel="noopener noreferrer">Tamal Dey</a></div>
+    <div class="affil">Purdue University</div>
+    <div class="talk">Geometric/Combinatorial Viewpoint Helps Designing Algorithms in TDA</div>
+    <details class="abstract">
+      <summary>Abstract</summary>
+      <p>Advances in topological data analysis (TDA) require efficient algorithm designs that can extract algebraic structures hidden in the data. This talk centers around the theme that special geometric/combinatorial constructions underlying the algebra can facilitate designing efficient algorithms in TDA. As examples of this premise, we present three (four time permitting) cases: (i) how a geometric viewpoint on zigzag persistence in terms of the Mayer-Vietoris pyramid helped designing a fast algorithm for computing zigzag persistence from an input zigzag filtration, (ii) how the special structure of two-dimensional grid ($\mathbb{Z}^2$) helped designing an efficient algorithm for computing the generalized rank (rank of the limit-to-colimit map) for $2$-parameter persistence, (iii) how combinatorics helped designing efficient algorithms for multiparameter persistence, and (iii) how combinatorial multivectors representing dynamical systems helped designing efficient algorithms for computing algebraic summaries such as Connection Matrices and Conley-Morse barcodes.</p>
+    </details>
+  </div>
   <div id="bala-krishnamoorthy" class="speaker-card"><div class="name"><a href="https://bala-krishnamoorthy.github.io/" target="_blank" rel="noopener noreferrer">Bala Krishnamoorthy</a></div><div class="affil">WSU Vancouver</div><div class="talk">Talk title TBA</div></div>
   <div id="radmila-sazdanovic" class="speaker-card"><div class="name"><a href="https://radmila.org/" target="_blank" rel="noopener noreferrer">Radmila Sazdanovic</a></div><div class="affil">North Carolina State University</div><div class="talk">Talk title TBA</div></div>
   <div id="bei-wang" class="speaker-card"><div class="name"><a href="https://www.sci.utah.edu/~beiwang/" target="_blank" rel="noopener noreferrer">Bei Wang</a></div><div class="affil">University of Utah</div><div class="talk">Talk title TBA</div></div>
@@ -18,7 +26,15 @@ title: Participants
   <div id="sarah-percival" class="speaker-card"><div class="name"><a href="https://www.math.unm.edu/~sarah/" target="_blank" rel="noopener noreferrer">Sarah Percival</a></div><div class="affil">University of New Mexico</div><div class="talk">Talk title TBA</div></div>
   <div id="enrique-alvarado" class="speaker-card"><div class="name"><a href="https://sites.google.com/view/enriquegalvarado" target="_blank" rel="noopener noreferrer">Enrique Alvarado</a></div><div class="affil">Iowa State University</div><div class="talk">Talk title TBA</div></div>
   <div id="halley-fritze" class="speaker-card"><div class="name"><a href="https://hfr1tz3.github.io/" target="_blank" rel="noopener noreferrer">Halley Fritze</a></div><div class="affil">University of Michigan</div><div class="talk">Talk title TBA</div></div>
-  <div id="li-zhang" class="speaker-card"><div class="name"><a href="https://broad.msu.edu/profile/zhan2070/" target="_blank" rel="noopener noreferrer">Li Zhang</a></div><div class="affil">Michigan State University</div><div class="talk">Talk title TBA</div></div>
+  <div id="li-zhang" class="speaker-card">
+    <div class="name"><a href="https://broad.msu.edu/profile/zhan2070/" target="_blank" rel="noopener noreferrer">Li Zhang</a></div>
+    <div class="affil">Michigan State University</div>
+    <div class="talk">Mapping the dynamics of open source software development: A Topological Data Analysis Approach</div>
+    <details class="abstract">
+      <summary>Abstract</summary>
+      <p>Open-source software (OSS) development is a central topic at the intersection of IS and organizational research. Research in this area has consistently shown that OSS development processes are dynamic, non-deterministic, and emergent. In this presentation, I introduce a new method and a new theory for studying how OSS development processes change over time. The new topological data analysis (TDA) approach, Temporal Mapper, allows us to theorize the OSS development process as a complex dynamical system. Specifically, it enables us to visualize and conceptualize the emergence of recurrent patterns of action in the OSS development process. Due to a lack of data and methods, early work on organizations as complex dynamical systems was largely metaphorical. Recent advancements in topological data analysis (TDA), such as Temporal Mapper, make it possible to conduct rigorous empirical studies, especially in areas like OSS where detailed data are available. These methodological advancements create new opportunities to revisit earlier scholarly interests in viewing organizations as complex dynamical systems.</p>
+    </details>
+  </div>
   <div id="xinyuan-yan" class="speaker-card"><div class="name"><a href="https://xinyuanryanyan.github.io/" target="_blank" rel="noopener noreferrer">Xinyuan Yan</a></div><div class="affil">University of Utah</div><div class="talk">Talk title TBA</div></div>
   <div id="jared-reiling" class="speaker-card"><div class="name"><a href="https://jreiling1.github.io/" target="_blank" rel="noopener noreferrer">Jared Reiling</a></div><div class="affil">Michigan State University</div><div class="talk">Talk title TBA</div></div>
   <!-- <div class="speaker-card"><div class="name">Speaker Name</div><div class="affil">University / Institution</div><div class="talk">Talk title TBA</div></div> -->
@@ -28,7 +44,7 @@ title: Participants
 
 Titles of posters are listed under speakers names.
 
-<div class="speaker-grid with-abstracts">
+<div class="speaker-grid">
 
 <div class="speaker-card"><div class="name"><a href="https://scholar.google.com/citations?user=TgQ2tvsAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Mujtaba Ali</a></div><div class="affil">Florida State University</div><div class="talk"></div></div>
 <div class="speaker-card"><div class="name"><a href="https://scholar.google.com/citations?user=woCuMd8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Cagatay Ayhan</a></div><div class="affil">Florida State University</div><div class="talk">A Persistent Homology Pipeline for the Analysis of Neural Spike Train Data</div></div>
@@ -39,7 +55,7 @@ Titles of posters are listed under speakers names.
 <div class="speaker-card"><div class="name"><a href="https://loic-dubois.github.io/" target="_blank" rel="noopener noreferrer">Loïc Dubois</a></div><div class="affil">University of Notre Dame</div><div class="talk"></div></div>
 <div class="speaker-card"><div class="name"><a href="https://www.math.fsu.edu/People/grads.php?id=1892" target="_blank" rel="noopener noreferrer">Pan Fang</a></div><div class="affil">Florida State University</div><div class="talk"></div></div>
 <div class="speaker-card"><div class="name"><a href="https://math.wsu.edu/graduate-students/wsu-profile/patrick.gambill/" target="_blank" rel="noopener noreferrer">Patrick Gambill</a></div><div class="affil">Washington State University</div><div class="talk"></div></div>
-<div class="speaker-card"><div class="name"><a href="https://www.kcl.ac.uk/people/yiyang-ge" target="_blank" rel="noopener noreferrer">Yiyang Ge</a></div><div class="affil">King's College London</div><div class="talk">TDAssure: A tool to assess Imputation quality through Topological Data Analysis</div></div>
+<!-- <div class="speaker-card"><div class="name"><a href="https://www.kcl.ac.uk/people/yiyang-ge" target="_blank" rel="noopener noreferrer">Yiyang Ge</a></div><div class="affil">King's College London</div><div class="talk">TDAssure: A tool to assess Imputation quality through Topological Data Analysis</div></div> -->
 <div class="speaker-card"><div class="name"><a href="https://www.cs.purdue.edu/people/graduate-students/haas60.html" target="_blank" rel="noopener noreferrer">Andrew Haas</a></div><div class="affil">Purdue University</div><div class="talk"></div></div>
 <div class="speaker-card"><div class="name"><a href="https://directory.natsci.msu.edu/directory/Profiles/Person/101481" target="_blank" rel="noopener noreferrer">Astrid Olave Herrera</a></div><div class="affil">Michigan State University</div><div class="talk"></div></div>
 <div class="speaker-card"><div class="name"><a href="https://www.math.upenn.edu/people/mattie-ji" target="_blank" rel="noopener noreferrer">Mattie Ji</a></div><div class="affil">University of Pennsylvania</div><div class="talk">On topological descriptors for graph products</div></div>
@@ -104,7 +120,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   document.querySelectorAll("#participant-list-grid .speaker-card .talk").forEach(function (talkEl) {
     if (!talkEl.textContent.trim()) {
-      talkEl.textContent = "Poster title TBA";
+      talkEl.textContent = "Poster Title TBA";
     }
   });
 });

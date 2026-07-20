@@ -11,6 +11,8 @@ title: Directions
 <p><strong>STEM Teaching and Learning Facility, Classroom 2130 </strong><br>
 Michigan State University<br>
 East Lansing, MI 48824</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2930.9185098651674!2d-84.483143!3d42.7266155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8822c3ed0f1527d9%3A0x4331d7e3bcbf5f4b!2sSTEM%20Teaching%20and%20Learning%20Facility!5e0!3m2!1sen!2sus!4v1784565687326!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 
 > **Note for Funded Participants**
@@ -31,6 +33,7 @@ MSU is accessible via I-96 and US-127.
 See [MSU Parking Services](https://police.msu.edu/parking-services/) for visitor parking maps and rates.
 
 ## By Train
+
 The Amtrak Blue Water route runs from Chicago and stops within walking distance of campus.
 
 ## Hotels

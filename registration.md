@@ -5,14 +5,16 @@ title: Registration
 
 # Registration
 
-<div class="reg-box">
+Registratoin is now closed.
+
+<!-- <div class="reg-box">
 
 Register to attend by filling out the form linked below.
 Registration is free but required for planning purposes. Please register by <b>July 17th</b
 
 <a class="btn" href="https://forms.gle/TJj5iiMwFjJLscmG8" target="_blank" rel="noopener noreferrer">Register Now →</a>
 
-</div>
+</div> -->
 
 <!-- <div class="reg-box">
 
