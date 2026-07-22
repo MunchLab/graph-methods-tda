@@ -33,7 +33,15 @@ title: Participants
   <div id="salman-parsa" class="speaker-card"><div class="name"><a href="https://my.cdm.depaul.edu/v2/Public/Academic/Profile/1577" target="_blank" rel="noopener noreferrer">Salman Parsa</a></div><div class="affil">DePaul University</div><div class="talk">Talk title TBA</div></div>
   <div id="sarah-percival" class="speaker-card"><div class="name"><a href="https://www.math.unm.edu/~sarah/" target="_blank" rel="noopener noreferrer">Sarah Percival</a></div><div class="affil">University of New Mexico</div><div class="talk">Talk title TBA</div></div>
   <div id="enrique-alvarado" class="speaker-card"><div class="name"><a href="https://sites.google.com/view/enriquegalvarado" target="_blank" rel="noopener noreferrer">Enrique Alvarado</a></div><div class="affil">Iowa State University</div><div class="talk">Talk title TBA</div></div>
-  <div id="halley-fritze" class="speaker-card"><div class="name"><a href="https://hfr1tz3.github.io/" target="_blank" rel="noopener noreferrer">Halley Fritze</a></div><div class="affil">University of Michigan</div><div class="talk">Talk title TBA</div></div>
+  <div id="halley-fritze" class="speaker-card">
+    <div class="name"><a href="https://hfr1tz3.github.io/" target="_blank" rel="noopener noreferrer">Halley Fritze</a></div>
+    <div class="affil">University of Michigan</div>
+    <div class="talk">Algorithms and Statistical Methods for Mapper Complexes</div>
+    <details class="abstract">
+      <summary>Abstract</summary>
+      <p>The Mapper algorithm is a fundamental tool in exploratory topological data analysis. Derived from the nerve construction, Mapper graphs can contain additional information about clustering density when considering the higher-dimensional skeleta. To capture1-dimensional topology, we construct the Mapper graph's 2-dimensional complex: 2-Mapper. We also introduce a new algorithm implementation of Multiscale Mapper to choose 2-Mapper parameters that reflect persistent Betti-1 information. With this tool, we study how cover choice affects 2-Mapper output, and introduce new hypothesis testing methods to understand stability of 1-dimensional cycles under parameter perturbations.</p>
+    </details>
+  </div>
   <div id="li-zhang" class="speaker-card">
     <div class="name"><a href="https://broad.msu.edu/profile/zhan2070/" target="_blank" rel="noopener noreferrer">Li Zhang</a></div>
     <div class="affil">Michigan State University</div>
@@ -43,8 +51,24 @@ title: Participants
       <p>Open-source software (OSS) development is a central topic at the intersection of IS and organizational research. Research in this area has consistently shown that OSS development processes are dynamic, non-deterministic, and emergent. In this presentation, I introduce a new method and a new theory for studying how OSS development processes change over time. The new topological data analysis (TDA) approach, Temporal Mapper, allows us to theorize the OSS development process as a complex dynamical system. Specifically, it enables us to visualize and conceptualize the emergence of recurrent patterns of action in the OSS development process. Due to a lack of data and methods, early work on organizations as complex dynamical systems was largely metaphorical. Recent advancements in topological data analysis (TDA), such as Temporal Mapper, make it possible to conduct rigorous empirical studies, especially in areas like OSS where detailed data are available. These methodological advancements create new opportunities to revisit earlier scholarly interests in viewing organizations as complex dynamical systems.</p>
     </details>
   </div>
-  <div id="xinyuan-yan" class="speaker-card"><div class="name"><a href="https://xinyuanryanyan.github.io/" target="_blank" rel="noopener noreferrer">Xinyuan Yan</a></div><div class="affil">University of Utah</div><div class="talk">Talk title TBA</div></div>
-  <div id="jared-reiling" class="speaker-card"><div class="name"><a href="https://jreiling1.github.io/" target="_blank" rel="noopener noreferrer">Jared Reiling</a></div><div class="affil">Michigan State University</div><div class="talk">Talk title TBA</div></div>
+  <div id="xinyuan-yan" class="speaker-card">
+    <div class="name"><a href="https://xinyuanryanyan.github.io/" target="_blank" rel="noopener noreferrer">Xinyuan Yan</a></div>
+    <div class="affil">University of Utah</div>
+    <div class="talk">Visual Analytics of Neural Representations with Mapper Graphs: From Explanation to Alignment</div>
+    <details class="abstract">
+      <summary>Abstract</summary>
+      <p>Neural networks learn high-dimensional representations that capture rich semantic and structural relationships, yet understanding these representations remains a fundamental challenge for explainable AI. This work will present how Mapper graphs can serve as interactive visual abstractions that help domain experts explore, interpret, and compare neural representation spaces. First, I introduce Explainable Mapper, a framework for interpreting Mapper graphs of language model representations. By combining Mapper-based exploration with LLM-assisted explanation and perturbation-based verification, the framework enables users to automatically generate and validate hypotheses about the linguistic properties encoded in Mapper elements, including nodes, edges, paths, connected components, and trajectories. Second, I present TopoAlign, which extends the interpretation of a single Mapper graph to the comparison of Mapper graphs constructed from representations of different models, layers, training epochs, and modalities. Through topology-aware alignment and coordinated visualizations, TopoAlign enables users to compare global structures, identify corresponding local subgraphs, and inspect fine-grained alignment patterns, such as feature splitting, merging, and disentanglement. Together, these two works illustrate how visual analytics with Mapper graphs supports the understanding of neural representations from explanation to comparative alignment.</p>
+    </details>
+  </div>
+  <div id="jared-reiling" class="speaker-card">
+    <div class="name"><a href="https://jreiling1.github.io/" target="_blank" rel="noopener noreferrer">Jared Reiling</a></div>
+    <div class="affil">Michigan State University</div>
+    <div class="talk">Topological data analysis characterizes rich brain and behavioral dynamics during naturalistic social interaction</div>
+    <details class="abstract">
+      <summary>Abstract</summary>
+      <p>The field of neuroscience produces complex, multimodal datasets for revealing insight into the nervous system, and ultimately, the brain. A recent experimental trend in social neuroscience is simultaneously recording brain and behavior in naturalistic settings. Here, brain activity is captured via internal recording, and behavior is tracked using computer vision via video recording. Both brain and behavior recordings produce complex time series data, where extracting meaning relationships remains a key challenge. The currently available data analysis tools implement time averaging techniques, omitting the moment-to-moment dynamics within time series data. Therefore, new data analysis tools are needed to capture and characterize the fine-grained changes occurring in complex, high-dimensional time series data. In this talk, I will present my work using Temporal Mapper, a topological data analysis method, to represent complex time series data as transition networks. Here, we applied Temporal Mapper to characterize the moment-to-moment dynamics between freely moving ferrets. We found that brain and behavioral states during social interaction are less stable compared to non-social behavior. Our future work will develop cross-scale mappings between brain and behavioral transition networks.</p>
+    </details>
+  </div>
   <!-- <div class="speaker-card"><div class="name">Speaker Name</div><div class="affil">University / Institution</div><div class="talk">Talk title TBA</div></div> -->
 </div>
 
