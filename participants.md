@@ -31,7 +31,7 @@ title: Participants
     </details>
   </div>
   <div id="salman-parsa" class="speaker-card"><div class="name"><a href="https://my.cdm.depaul.edu/v2/Public/Academic/Profile/1577" target="_blank" rel="noopener noreferrer">Salman Parsa</a></div><div class="affil">DePaul University</div><div class="talk">Talk title TBA</div></div>
-  <div id="sarah-percival" class="speaker-card"><div class="name"><a href="https://www.math.unm.edu/~sarah/" target="_blank" rel="noopener noreferrer">Sarah Percival</a></div><div class="affil">University of New Mexico</div><div class="talk">Talk title TBA</div></div>
+  <div id="sarah-percival" class="speaker-card"><div class="name"><a href="https://www.math.unm.edu/~sarah/" target="_blank" rel="noopener noreferrer">Sarah Percival</a></div><div class="affil">University of New Mexico</div><div class="talk">ceREEBerus: Reeb Graph Computations in Python</div></div>
   <div id="enrique-alvarado" class="speaker-card"><div class="name"><a href="https://sites.google.com/view/enriquegalvarado" target="_blank" rel="noopener noreferrer">Enrique Alvarado</a></div><div class="affil">Iowa State University</div><div class="talk">Talk title TBA</div></div>
   <div id="halley-fritze" class="speaker-card">
     <div class="name"><a href="https://hfr1tz3.github.io/" target="_blank" rel="noopener noreferrer">Halley Fritze</a></div>
