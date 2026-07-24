@@ -58,7 +58,15 @@ title: Participants
       <p>I will discuss methods for analyzing complex datasets based on adding geometric/topological/measure-theoretic attributes to merge trees and Reeb graphs generated from the data. This will be a two-part talk/tutorial, where I intend to simultaneously explain the underlying theory and illustrate it via interactive code examples. This will be based on a few papers which approach these ideas from different perspectives, which are joint work with Justin Curry, Haibin Hang, Washington Mio, Osman Okutan, and Florian Russold. Interactive notebooks associated to the talk will be available here: https://github.com/trneedham/Graph-Based-Methods-In-TDA.</p>
     </details>
   </div>
-  <div id="salman-parsa" class="speaker-card"><div class="name"><a href="https://my.cdm.depaul.edu/v2/Public/Academic/Profile/1577" target="_blank" rel="noopener noreferrer">Salman Parsa</a></div><div class="affil">DePaul University</div><div class="talk">Talk title TBA</div></div>
+  <div id="salman-parsa" class="speaker-card">
+    <div class="name"><a href="https://my.cdm.depaul.edu/v2/Public/Academic/Profile/1577" target="_blank" rel="noopener noreferrer">Salman Parsa</a></div>
+    <div class="affil">DePaul University</div>
+    <div class="talk">Labeled Interleaving Distance For Reeb Graphs</div>
+    <details class="abstract">
+      <summary>Abstract</summary>
+      <p>In this talk, I will introduce the notion of labeled interleaving between two labeled Reeb graphs. There exist several distances defined for Reeb graphs, including the interleaving distance. However, these are generally NP-hard to compute even for the case where the Reeb graph is a tree. Inspired by the labeled interleaving between merge trees, we study the corresponding notion of labeled Reeb graphs and the labeled interleaving distance. I shall start by reviewing the main concepts: thickening and smoothing of Reeb graphs and the interleaving distance between Reeb graphs. We then study the behavior of nodes under smoothing, and then I will describe what it means for an interleaving map to be label-preserving for Reeb graphs. Labeled interleaving maps allow us to define the labeled interleaving distance between two labeled Reeb graphs. Our main theorem is that the ordinary interleaving distance can be recovered with some labeling of all essential nodes. Moreover, I will talk about the algorithms to compute the labeled interleaving distance for Reeb graphs. In particular, in the case that the Reeb graph is a tree, the labeled interleaving distance can be computed in polynomial time.</p>
+    </details>
+  </div>
   <div id="sarah-percival" class="speaker-card"><div class="name"><a href="https://www.math.unm.edu/~sarah/" target="_blank" rel="noopener noreferrer">Sarah Percival</a></div><div class="affil">University of New Mexico</div><div class="talk">ceREEBerus: Reeb Graph Computations in Python</div></div>
   <div id="enrique-alvarado" class="speaker-card"><div class="name"><a href="https://sites.google.com/view/enriquegalvarado" target="_blank" rel="noopener noreferrer">Enrique Alvarado</a></div><div class="affil">Iowa State University</div><div class="talk">Talk title TBA</div></div>
   <div id="halley-fritze" class="speaker-card">
