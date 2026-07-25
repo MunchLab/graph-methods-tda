@@ -31,10 +31,10 @@ title: Participants
   <div id="radmila-sazdanovic" class="speaker-card">
     <div class="name"><a href="https://radmila.org/" target="_blank" rel="noopener noreferrer">Radmila Sazdanovic</a></div>
     <div class="affil">North Carolina State University</div>
-    <div class="talk">The shape of relations: games, knots and other stories</div>
+    <div class="talk">The Shape of Relations</div>
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>Literature Nobel prize winner A. Solzhenitsyn wrote: "Topology! The stratosphere of human thought! In the XXIV century it might just possibly be of use to somebody, ...". Developed in the XXI century, Topological Data Analysis (TDA) offers powerful methods for uncovering patterns in complex datasets by analyzing their shape. In this talk, we will explore tools for visualizing high-dimensional maps and detecting relations between data sets with expected correlations. We will demonstrate the utility of these tools with real-world examples from game theory and cancer genomics, as well as from theoretical mathematics: knots and their invariants.</p>
+      <p>Recent advances in topological data analysis (TDA) and artificial intelligence (AI) provide new ways to study large collections of structured data through relations and their associated simplicial complexes. In this talk, we investigate datasets arising from collections of knot invariants by combining graph-based methods with Dowker and multiway Dowker constructions. Relations among classical and homological invariants give rise to simplicial complexes whose topology captures dependencies that are not visible through pairwise comparisons alone. We illustrate how these relational models reveal geometric structure associated with concordance invariants such as the knot signature and Rasmussen's <em>s</em>-invariant, and discuss how higher-order relations provide a new perspective on the organization of invariant datasets.</p>
     </details>
   </div>
   <div id="bei-wang" class="speaker-card">
