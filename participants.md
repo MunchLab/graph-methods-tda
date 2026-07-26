@@ -55,7 +55,7 @@ title: Participants
     <div class="talk">Attributed Merge Trees and Reeb Graphs</div>
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>I will discuss methods for analyzing complex datasets based on adding geometric/topological/measure-theoretic attributes to merge trees and Reeb graphs generated from the data. This will be a two-part talk/tutorial, where I intend to simultaneously explain the underlying theory and illustrate it via interactive code examples. This will be based on a few papers which approach these ideas from different perspectives, which are joint work with Justin Curry, Haibin Hang, Washington Mio, Osman Okutan, and Florian Russold. Interactive notebooks associated to the talk will be available here: https://github.com/trneedham/Graph-Based-Methods-In-TDA.</p>
+      <p>I will discuss methods for analyzing complex datasets based on adding geometric/topological/measure-theoretic attributes to merge trees and Reeb graphs generated from the data. This will be a two-part talk/tutorial, where I intend to simultaneously explain the underlying theory and illustrate it via interactive code examples. This will be based on a few papers which approach these ideas from different perspectives, which are joint work with Justin Curry, Haibin Hang, Washington Mio, Osman Okutan, and Florian Russold. Interactive notebooks associated to the talk will be available here: <a href="https://github.com/trneedham/Graph-Based-Methods-In-TDA" target="_blank" rel="noopener noreferrer">https://github.com/trneedham/Graph-Based-Methods-In-TDA</a>.</p>
     </details>
   </div>
   <div id="salman-parsa" class="speaker-card">
@@ -68,7 +68,17 @@ title: Participants
     </details>
   </div>
   <div id="sarah-percival" class="speaker-card"><div class="name"><a href="https://www.math.unm.edu/~sarah/" target="_blank" rel="noopener noreferrer">Sarah Percival</a></div><div class="affil">University of New Mexico</div><div class="talk">ceREEBerus: Reeb Graph Computations in Python</div></div>
-  <div id="enrique-alvarado" class="speaker-card"><div class="name"><a href="https://sites.google.com/view/enriquegalvarado" target="_blank" rel="noopener noreferrer">Enrique Alvarado</a></div><div class="affil">Iowa State University</div><div class="talk">Talk title TBA</div></div>
+  <div id="enrique-alvarado" class="speaker-card">
+    <div class="name"><a href="https://sites.google.com/view/enriquegalvarado" target="_blank" rel="noopener noreferrer">Enrique Alvarado</a></div>
+    <div class="affil">Iowa State University</div>
+    <div class="talk">Revisiting Mapper Convergence with Metric Geometry</div>
+    <details class="abstract">
+      <summary>Abstract</summary>
+      <p>Mapper is a construction from topological data analysis that turns a dataset \(\hat{X}\) into a graph, or more generally, a (simplicial) complex intended to summarize the large-scale structure of the dataset. Its construction is done with three additional ingredients: a <em>lens function</em> from \(\hat{X}\) to a <em>lens space</em> \(Z\), a <em>cover</em> of \(Z\), and a <em>clustering algorithm</em> on \(\hat{X}\). Mapper was originally introduced as a data-driven approximation to the <em>Reeb graph</em> (<em>more generally, space</em>) of \(X\), <em>the space that our data \(\hat{X}\) was sampled from</em>. Previous work has used notions from category theory to study the convergence of the mapper graph to the Reeb graph when the lens function takes values in Euclidean space and the diameters of the cover elements uniformly tend to zero.</p>
+      <p>In this talk, we present recent results from an ongoing project with <em>Bala Krishnamoorthy</em>, where we use tools from metric geometry to study the convergence of mapper complexes to Reeb spaces. Our framework applies when the the underlying space \(X\) comes equipped with a pseudometric and the lens function maps takes values in an arbitrary metric space.</p>
+      <p>Although metrics on mapper graphs have been studied, the distinguishing feature of our metric is that it is derived from a <em>natural</em> metric on the Reeb space. Under mild assumptions on the underlying metric spaces and lens function, the topology induced by this natural metric agrees with the quotient topology on the Reeb space. We will discuss additional advantages of this Reeb space metric, and show how it can be approximated from a finite sample \(\hat{X}\) of \(X\). We describe how it can be used to equip the Mapper complex with a metric and then show how they Gromov-Hausdorff convergence of the <em>metric mapper complex</em> to the <em>metric Reeb space</em> as the diameters of the covers uniformly go to zero. Time permitting, we will conclude by discussing how we will be using this framework to create computationally efficient algorithms for selecting optimal parameters for mapper.</p>
+    </details>
+  </div>
   <div id="halley-fritze" class="speaker-card">
     <div class="name"><a href="https://hfr1tz3.github.io/" target="_blank" rel="noopener noreferrer">Halley Fritze</a></div>
     <div class="affil">University of Michigan</div>
