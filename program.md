@@ -21,7 +21,7 @@ All times are Eastern Time. Click on a presenter name to see their title and abs
   <thead><tr><th>Time</th><th>Event</th></tr></thead>
   <tbody>
     <tr><td class="t">9:00 - 9:30</td><td>Breakfast</td></tr>
-    <tr><td class="t">9:30 - 10:30</td><td>Tutorial/Talk - <a href="participants.html#sarah-percival"><strong>Sarah Percival</strong></a>. <a href="https://github.com/sperciva/Graph-Based-Methods-In-TDA">Tutorial Gihub Link</a></td></tr>
+    <tr><td class="t">9:30 - 10:30</td><td>Tutorial/Talk - <a href="participants.html#sarah-percival"><strong>Sarah Percival</strong></a>. <a href="https://github.com/sperciva/Graph-Based-Methods-In-TDA">Tutorial Github Link</a></td></tr>
     <tr class="brk"><td class="t">10:30 - 11</td><td>Coffee</td></tr>
     <tr><td class="t">11 - 12</td><td>Tutorial/Talk - <a href="participants.html#sarah-percival"><strong>Sarah Percival</strong></a></td></tr>
     <tr class="brk"><td class="t">12 - 1:30</td><td>Lunch</td></tr>
@@ -59,7 +59,7 @@ All times are Eastern Time. Click on a presenter name to see their title and abs
   <thead><tr><th>Time</th><th>Event</th></tr></thead>
   <tbody>
     <tr><td class="t">9:00 - 9:30</td><td>Breakfast</td></tr>
-    <tr><td class="t">9:30 - 10:30</td><td>Tutorial/Talk - <a href="participants.html#tom-needham"><strong>Tom Needham</strong></a>. <a href="https://github.com/trneedham/Graph-Based-Methods-In-TDA">Tutorial Gihub Link</a></td></tr>
+    <tr><td class="t">9:30 - 10:30</td><td>Tutorial/Talk - <a href="participants.html#tom-needham"><strong>Tom Needham</strong></a>. <a href="https://github.com/trneedham/Graph-Based-Methods-In-TDA">Tutorial Github Link</a></td></tr>
     <tr class="brk"><td class="t">10:30 - 11</td><td>Coffee</td></tr>
     <tr><td class="t">11 - 12</td><td>Tutorial/Talk - <a href="participants.html#tom-needham"><strong>Tom Needham</strong></a></td></tr>
     <tr class="brk"><td class="t">12 - 1:30</td><td>Lunch</td></tr>
