@@ -28,7 +28,7 @@ All times are Eastern Time. Click on a presenter name to see their title and abs
     <tr><td class="t">1:30 - 2</td><td>Invited Talk - <a href="participants.html#enrique-alvarado"><strong>Enrique Alvarado</strong></a></td></tr>
     <tr><td class="t">2 - 2:30</td><td>Invited Talk - <a href="participants.html#li-zhang"><strong>Li Zhang</strong></a></td></tr>
     <tr class="brk"><td class="t">2:30 - 3</td><td>Coffee</td></tr>
-    <tr><td class="t">3 - 4</td><td>Lightning talks - TBD</td></tr>
+    <tr><td class="t">3 - 4</td><td>Lightning talks - See your email for link to slides</td></tr>
     <tr><td class="t">4 - 5</td><td>Invited Talk - <a href="participants.html#tamal-dey"><strong>Tamal Dey</strong></a></td></tr>
     <tr><td class="t">5</td><td>Dinner</td></tr>
   </tbody>
