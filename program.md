@@ -42,7 +42,7 @@ All times are Eastern Time. Click on a presenter name to see their title and abs
     <tr><td class="t">9:00 - 9:30</td><td>Breakfast</td></tr>
     <tr><td class="t">9:30 - 10:30</td><td>Tutorial/Talk - <a href="participants.html#bei-wang"><strong>Bei Wang</strong></a></td></tr>
     <tr class="brk"><td class="t">10:30 - 11</td><td>Coffee</td></tr>
-    <tr><td class="t">11 - 12</td><td>Tutorial/Talk - <a href="participants.html#bei-wang"><strong>Bei Wang, Dhruv Meduri, and Xinyuan Yan </strong></a>. <a href="https://github.com/MapperInteractive/MapperInteractive">MapperInteractive Tutorial Github Link</a></td></tr>
+    <tr><td class="t">11 - 12</td><td>Tutorial/Talk - <a href="participants.html#bei-wang"><strong>Bei Wang, Dhruv Meduri, and Xinyuan Yan </strong></a>. <a href="https://github.com/MapperInteractive/MapperInteractive">MapperInteractive Tutorial</a> and <a href="https://github.com/tdavislab/Explainable-Mapper">Explainable Mapper Tutorial</a></td></tr>
     <tr class="brk"><td class="t">12 - 1:30</td><td>Lunch</td></tr>
     <tr><td class="t">1:30 - 2</td><td>Invited Talk - <a href="participants.html#salman-parsa"><strong>Salman Parsa</strong></a></td></tr>
     <tr><td class="t">2 - 2:30</td><td>Invited Talk - <a href="participants.html#jared-reiling"><strong>Jared Reiling</strong></a></td></tr>
