@@ -66,7 +66,7 @@ All times are Eastern Time. Click on a presenter name to see their title and abs
     <tr><td class="t">1:30 - 2</td><td>Invited Talk - <a href="participants.html#halley-fritze"><strong>Halley Fritze</strong></a></td></tr>
     <tr><td class="t">2 - 2:30</td><td>Invited Talk - <a href="participants.html#xinyuan-yan"><strong>Xinyuan Yan</strong></a></td></tr>
     <tr class="brk"><td class="t">2:30 - 3</td><td>Coffee</td></tr>
-    <tr><td class="t">3 - 4</td><td>Professional development panel - Jack Snoeyink, Radmila Sazdanovic, Tom Needham, Enrique Alvarado, and Mingzhe Li</td></tr>
+    <tr><td class="t">3 - 4</td><td>Professional development panel - Radmila Sazdanovic, Tom Needham, Enrique Alvarado, and Mingzhe Li</td></tr>
     <tr><td class="t">4 - 5</td><td>Invited Talk - <a href="participants.html#radmila-sazdanovic"><strong>Radmila Sazdanovic</strong></a></td></tr>
     <tr><td class="t">5</td><td>Dinner</td></tr>
   </tbody>
