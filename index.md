@@ -19,6 +19,10 @@ We welcome participants from all career stages, from graduate students to senior
 
 </div>
 
+<div style="text-align:center; margin: 1.5rem 0 2rem;">
+  <img src="assets/images/GraphMethodsTDA2026-GroupPhoto.jpg" alt="Group photo from Graph Methods in TDA 2026" style="max-width: 760px; width: 100%; height: 340px; object-fit: cover; object-position: center 72%; border-radius: 10px; box-shadow: 0 4px 18px rgba(0,0,0,0.12);">
+</div>
+
 <div class="info-grid">
   <div class="info-box"><div class="lbl">Dates</div><div class="val">July 27–29, 2026</div></div>
   <div class="info-box"><div class="lbl">Location</div><div class="val">Michigan State University. STEM Building, Room 2130.</div></div>
