@@ -42,13 +42,13 @@ All times are Eastern Time. Click on a presenter name to see their title and abs
     <tr><td class="t">9:00 - 9:30</td><td>Breakfast</td></tr>
     <tr><td class="t">9:30 - 10:30</td><td>Tutorial/Talk - <a href="participants.html#bei-wang"><strong>Bei Wang</strong></a></td></tr>
     <tr class="brk"><td class="t">10:30 - 11</td><td>Coffee</td></tr>
-    <tr><td class="t">11 - 12</td><td>Tutorial/Talk - <a href="participants.html#bei-wang"><strong>Bei Wang</strong></a></td></tr>
+    <tr><td class="t">11 - 12</td><td>Tutorial/Talk - <a href="participants.html#bei-wang"><strong>Bei Wang, Dhruv Meduri, and Xinyuan Yan </strong></a>. <a href="https://github.com/MapperInteractive/MapperInteractive">MapperInteractive Tutorial Github Link</a></td></tr>
     <tr class="brk"><td class="t">12 - 1:30</td><td>Lunch</td></tr>
     <tr><td class="t">1:30 - 2</td><td>Invited Talk - <a href="participants.html#salman-parsa"><strong>Salman Parsa</strong></a></td></tr>
     <tr><td class="t">2 - 2:30</td><td>Invited Talk - <a href="participants.html#jared-reiling"><strong>Jared Reiling</strong></a></td></tr>
     <tr class="brk"><td class="t">2:30 - 3</td><td>Coffee</td></tr>
     <tr><td class="t">3 - 4</td><td>Invited Talk - <a href="participants.html#bala-krishnamoorthy"><strong>Bala Krishnamoorthy</strong></a></td></tr>
-    <tr><td class="t">4 - 5</td><td>Poster session - TBD</td></tr>
+    <tr><td class="t">4 - 5</td><td>Poster session</td></tr>
     <tr><td class="t">5</td><td>Dinner</td></tr>
   </tbody>
 </table>
@@ -66,7 +66,7 @@ All times are Eastern Time. Click on a presenter name to see their title and abs
     <tr><td class="t">1:30 - 2</td><td>Invited Talk - <a href="participants.html#halley-fritze"><strong>Halley Fritze</strong></a></td></tr>
     <tr><td class="t">2 - 2:30</td><td>Invited Talk - <a href="participants.html#xinyuan-yan"><strong>Xinyuan Yan</strong></a></td></tr>
     <tr class="brk"><td class="t">2:30 - 3</td><td>Coffee</td></tr>
-    <tr><td class="t">3 - 4</td><td>Professional development panel - TBD</td></tr>
+    <tr><td class="t">3 - 4</td><td>Professional development panel - Jack Snoeyink, Radmila Sazdanovic, Tom Needham, Enrique Alvarado, and Mingzhe Li</td></tr>
     <tr><td class="t">4 - 5</td><td>Invited Talk - <a href="participants.html#radmila-sazdanovic"><strong>Radmila Sazdanovic</strong></a></td></tr>
     <tr><td class="t">5</td><td>Dinner</td></tr>
   </tbody>
