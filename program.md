@@ -30,7 +30,7 @@ All times are Eastern Time. Click on a presenter name to see their title and abs
     <tr class="brk"><td class="t">2:30 - 3</td><td>Coffee</td></tr>
     <tr><td class="t">3 - 4</td><td>Lightning talks - See your email for link to slides</td></tr>
     <tr><td class="t">4 - 5</td><td>Invited Talk - <a href="participants.html#tamal-dey"><strong>Tamal Dey</strong></a></td></tr>
-    <tr><td class="t">5</td><td>Dinner</td></tr>
+    <tr><td class="t">5</td><td>Dinner (on your own)</td></tr>
   </tbody>
 </table>
 
@@ -49,7 +49,7 @@ All times are Eastern Time. Click on a presenter name to see their title and abs
     <tr class="brk"><td class="t">2:30 - 3</td><td>Coffee</td></tr>
     <tr><td class="t">3 - 4</td><td>Invited Talk - <a href="participants.html#bala-krishnamoorthy"><strong>Bala Krishnamoorthy</strong></a></td></tr>
     <tr><td class="t">4 - 5</td><td>Poster session</td></tr>
-    <tr><td class="t">5</td><td>Dinner</td></tr>
+    <tr><td class="t">5</td><td>Dinner (on your own)</td></tr>
   </tbody>
 </table>
 
@@ -68,6 +68,6 @@ All times are Eastern Time. Click on a presenter name to see their title and abs
     <tr class="brk"><td class="t">2:30 - 3</td><td>Coffee</td></tr>
     <tr><td class="t">3 - 4</td><td>Professional development panel - Radmila Sazdanovic, Tom Needham, Enrique Alvarado, and Mingzhe Li</td></tr>
     <tr><td class="t">4 - 5</td><td>Invited Talk - <a href="participants.html#radmila-sazdanovic"><strong>Radmila Sazdanovic</strong></a></td></tr>
-    <tr><td class="t">5</td><td>Dinner</td></tr>
+    <tr><td class="t">5</td><td>Dinner (on your own)</td></tr>
   </tbody>
 </table>
