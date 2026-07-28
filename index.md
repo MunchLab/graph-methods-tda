@@ -19,8 +19,10 @@ We welcome participants from all career stages, from graduate students to senior
 
 </div>
 
-<div style="text-align:center; margin: 1.5rem 0 2rem;">
-  <img src="assets/images/GraphMethodsTDA2026-GroupPhoto.jpg" alt="Group photo from Graph Methods in TDA 2026" style="max-width: 760px; width: 100%; height: 340px; object-fit: cover; object-position: center 72%; border-radius: 10px; box-shadow: 0 4px 18px rgba(0,0,0,0.12);">
+<div style="display:flex; justify-content:center; margin: 1.5rem 0 2rem;">
+  <div style="width: min(760px, 100%); aspect-ratio: 760 / 340; overflow: hidden; border-radius: 10px; box-shadow: 0 4px 18px rgba(0,0,0,0.12);">
+    <img src="assets/images/GraphMethodsTDA2026-GroupPhoto.jpg" alt="Group photo from Graph Methods in TDA 2026" style="display:block; width: 100%; height: 100%; object-fit: cover; object-position: center 58%;">
+  </div>
 </div>
 
 <div class="info-grid">
